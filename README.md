@@ -1,7 +1,7 @@
 
 
 <h1>Privacy Policy</h1>
-<h2>ECG Quiz: EKG Rhythm & ABG</h2>
+<h2>ECG Quiz: EKG Rhythms & ABG</h2>
 
 <p class="summary">
   <strong>ECG Quiz has no account and asks you for nothing.</strong> It shows
