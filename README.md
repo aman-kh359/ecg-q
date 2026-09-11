@@ -1,7 +1,7 @@
 
 
 <h1>Privacy Policy</h1>
-<p class="updated">ECG Quiz: EKG Rhythm Practice &middot; Last updated 9 September 2026</p>
+<h2>ECG Quiz: EKG Rhythm & ABG</h2>
 
 <p class="summary">
   <strong>ECG Quiz has no account and asks you for nothing.</strong> It shows
